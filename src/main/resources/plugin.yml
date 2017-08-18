@@ -1,0 +1,7 @@
+name: Animamorphacandy
+main: com.keensta.Animamorphacandy.Animamorphacandy
+version: 0.0.1
+author: keensta
+description: Fun little plugin.
+       
+commands:

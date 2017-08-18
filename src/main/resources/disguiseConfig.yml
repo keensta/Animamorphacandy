@@ -1,0 +1,5 @@
+Disguises:
+    APPLE:
+        Type: sheep
+    CARROT_ITEM:
+        Type: ocelot
